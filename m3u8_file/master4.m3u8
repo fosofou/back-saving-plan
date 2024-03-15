@@ -1,0 +1,33 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=768000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=640x360
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/360.m3u8?sid=&user-cdn=cloudflare&version=10%3A2%3A1%3A0%3Acloudflare&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=768000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=640x360
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/360.m3u8?sid=&user-cdn=integrosproxy&version=10%3A2%3A1%3A0%3Aintegrosproxy&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=768000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=640x360
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/360.m3u8?sid=&user-cdn=cdnvideo&version=10%3A2%3A1%3A0%3Acdnvideo&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=768000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=640x360
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/360.m3u8?sid=&user-cdn=gcore&version=10%3A2%3A1%3A0%3Agcore&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=1024000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=853x480
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/480.m3u8?sid=&user-cdn=cloudflare&version=10%3A2%3A1%3A0%3Acloudflare&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=1024000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=853x480
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/480.m3u8?sid=&user-cdn=integrosproxy&version=10%3A2%3A1%3A0%3Aintegrosproxy&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=1024000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=853x480
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/480.m3u8?sid=&user-cdn=cdnvideo&version=10%3A2%3A1%3A0%3Acdnvideo&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=1024000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=853x480
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/480.m3u8?sid=&user-cdn=gcore&version=10%3A2%3A1%3A0%3Agcore&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=2560000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=1280x720
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/720.m3u8?sid=&user-cdn=cloudflare&version=10%3A2%3A1%3A0%3Acloudflare&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=2560000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=1280x720
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/720.m3u8?sid=&user-cdn=integrosproxy&version=10%3A2%3A1%3A0%3Aintegrosproxy&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=2560000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=1280x720
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/720.m3u8?sid=&user-cdn=cdnvideo&version=10%3A2%3A1%3A0%3Acdnvideo&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=2560000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=1280x720
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/720.m3u8?sid=&user-cdn=gcore&version=10%3A2%3A1%3A0%3Agcore&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=4096000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=1920x1080
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/1080.m3u8?sid=&user-cdn=cloudflare&version=10%3A2%3A1%3A0%3Acloudflare&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=4096000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=1920x1080
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/1080.m3u8?sid=&user-cdn=integrosproxy&version=10%3A2%3A1%3A0%3Aintegrosproxy&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=4096000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=1920x1080
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/1080.m3u8?sid=&user-cdn=cdnvideo&version=10%3A2%3A1%3A0%3Acdnvideo&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
+#EXT-X-STREAM-INF:BANDWIDTH=4096000,CODECS="mp4a.40.2, avc1.64001e",RESOLUTION=1920x1080
+https://player02.getcourse.ru/player/ff68d73b204431cb8547332a738f06de/da484072abbc6f08e5be7e48c97d0470/media/1080.m3u8?sid=&user-cdn=gcore&version=10%3A2%3A1%3A0%3Agcore&user-id=373921451&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjozNzM5MjE0NTF9.LVT3lWguEXREwZIxAOlOpPOHm_SlwH30zG5-oa_m0co
