@@ -4,7 +4,7 @@
 
     download_m3u8_file [option...]
 
-`-quality` video resolution, avalivale values: [360, 480, 720, 1080] (default is `720` ) 
+`-quality` video resolution, avalivale values: `[360, 480, 720, 1080]` (default is `720` ) 
 
 ### Example
 
